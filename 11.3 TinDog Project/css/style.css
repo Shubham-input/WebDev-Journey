@@ -2,8 +2,6 @@
   background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
-  height: 300px;
-  width: 300px;
 }
 
 @keyframes gradient-animation {
@@ -27,9 +25,4 @@
 .profile-img {
   height: 100px;
   border-radius: 50%;
-}
-.abc{
-  height: 300px;
-  width: 300px;
-  background-color: #00bfff;
 }
